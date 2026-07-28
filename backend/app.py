@@ -266,17 +266,17 @@ def build_report():
         [
             "San Francisco, CA -> Austin, TX",
             "In-transit",
-            "2024-03-25"
+            "2026-07-28"
         ],
         [
             "Shanghai, China -> Los Angeles, CA",
             "Delayed",
-            "2024-03-22 (Delayed by 2 days)"
+            "2026-07-18 (Delayed by 2 days)"
         ],
         [
             "Munich, Germany -> Paris, France",
             "Delivered",
-            "2024-03-20"
+            "2026-07-15"
         ],
     ]
 
